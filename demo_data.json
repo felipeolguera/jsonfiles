@@ -9,25 +9,17 @@
     "kwh_sqm":130,
     "cooling":"26%",
     "electricity":"74%",
-
     "water_saved": "49%",
     "water_saved_aed": "5.5M",
     "water_cars_removed": "367",
     "water_consumption": "116,198",
     "liters_sqm": "337",
-
     "generated_energy": "10,489",
     "generated_energy_percentage":"32%",
-    
     "temperature":"23",
     "temperature_auh":"24",
     "co":"358",
     "co_auh":"320",
     "humidity":"76",
     "humidity_auh":"83",
-
-
-
-
-
  } 
