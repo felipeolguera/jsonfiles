@@ -1,0 +1,12 @@
+{
+    "id":1,
+    "title":"Demo Dashboard Masdar",
+    "section":"Energy Consumption",
+    "energy_saved": "34%",
+    "energy_saved_aed":"11.2M",
+    "cars_removed": "2,287",
+    "total_consumption": "44,364",
+    "kwh_sqm":130,
+    "cooling":"26%",
+    "electricity":"74%"
+ } 
